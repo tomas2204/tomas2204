@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+```js
+const tomi= {
+  codes: ["Javascript", "HTML5", "CSS", "Python"],
+  tools: ["React.js", "Redux", "Git ", "Node", "Express", "SQL", "Unit_testing"],
+  passions: ["Performance web", "Web development"]
+}
+```
+
 <!--
 **tomas2204/tomas2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
