@@ -9,9 +9,11 @@ const tomi= {
 ```
 
 You can find me 🌎:
-- [Linkedin](https://www.linkedin.com/in/tomas-maldonado-668b251b1)
-- [Twitter](https://twitter.com/tomimaldonadoD)
-- [Instagram](https://www.instagram.com/tomymaldonado_/)
+- [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin logo" width="34">](https://www.linkedin.com/in/tomas-maldonado-668b251b1)
+- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/tomimaldonadoD)
+- [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/tomymaldonado_/)
+
+[![tomas2204's github stats](https://github-readme-stats.vercel.app/api?username=tomas2204)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tomas2204/tomas2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
