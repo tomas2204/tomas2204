@@ -8,6 +8,11 @@ const tomi= {
 }
 ```
 
+You can find me 🌎:
+-[Linkedin](https://www.linkedin.com/in/tomas-maldonado-668b251b1)
+-[Twitter](https://twitter.com/tomimaldonadoD)
+-[Instagram](https://www.instagram.com/tomymaldonado_/)
+
 <!--
 **tomas2204/tomas2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
