@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomás Maldonado</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate Full stack developer from Argentina</h3>
 
 - 🔭 I just finished working on a project [Henry App](https://github.com/Jasper13006/HenryApp)
 - 🔭 And my previous project was [e-commerce](https://github.com/tomas2204/e-commerce)
