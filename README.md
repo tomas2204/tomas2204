@@ -29,7 +29,10 @@
     </a> 
     <a href="https://redux.js.org" target="_blank"> 
         <img src="https://img.icons8.com/color/344/redux.png" alt="redux" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a href="https://nestjs.com" target="_blank"> 
+        <img src="https://5b0988e595225.cdn.sohucs.com/images/20180904/07b0551153914204a05119842c5f3373.png" alt="NestJs/NestTs" width="40" height="40"/> 
+    </a>
     <a href="https://expressjs.com" target="_blank"> 
         <img src="./express.png" alt="express" width="40" height="40"/> 
     </a> 
