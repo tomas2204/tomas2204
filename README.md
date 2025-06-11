@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
 
-🔭 I've been contributing to [Chiper](https://github.com/chiper-inc) for 3 years
+🔭 I've been contributing to [Jüsto](https://justo.mx/) for the past year
     
 🌱 I'm currently learning Astro and Hexagonal Architecture
     
