@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
 
-🔭 I've been contributing to [Jüsto](https://justo.mx/) for the past year
+🔭 I started contributing to [Tiendanube](https://tiendanube.com/) on July 2025
     
 🌱 I'm currently learning Astro and Hexagonal Architecture
     
